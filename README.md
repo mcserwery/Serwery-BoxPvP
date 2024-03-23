@@ -1,11 +1,11 @@
 
 # Serwery Minecraft BoxPvP
 Dane pobrane z https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP
-Ostatnia aktualizacja 2024-03-23 12:49
+Ostatnia aktualizacja 2024-03-23 13:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ꜱᴛᴀʀᴛ ᴘɪᴀᴛᴇᴋ 18:00! | 0/0 | 120 |
-| 2 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/0 | 6 |
+| 2 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/0 | 7 |
 | 3 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Dodano budowanie i opcjonalne PvP na SkyGen! | 0/0 | 4 |
 | 4 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 0/0 | 3 |
 | 5 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | >> RealCraft.pl >> Najlepszy FreeBuild w Polsce! Konkursy i eventy • Questy • Działki • WBIJAJ! | 0/0 | 2 |
