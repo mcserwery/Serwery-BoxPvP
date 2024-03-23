@@ -1,7 +1,7 @@
 
 # Serwery Minecraft BoxPvP
 Dane pobrane z https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP
-Ostatnia aktualizacja 2024-03-23 13:49
+Ostatnia aktualizacja 2024-03-23 14:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ꜱᴛᴀʀᴛ ᴘɪᴀᴛᴇᴋ 18:00! | 0/0 | 120 |
