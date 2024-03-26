@@ -1,12 +1,12 @@
 
 # Serwery Minecraft BoxPvP
 Dane pobrane z https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP
-Ostatnia aktualizacja 2024-03-26 13:49
+Ostatnia aktualizacja 2024-03-26 14:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 758/2000 | 122 |
 | 2 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/777 | 8 |
-| 3 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Wbijaj na najfajniejszy serwer Minecraft! | 16/500 | 4 |
+| 3 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Wbijaj na najfajniejszy serwer Minecraft! | 40/500 | 4 |
 | 4 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2382/0 | 4 |
 | 5 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 83/500 | 3 |
 | 6 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl 1.8 - 1.20 Marcowe Skrzynie i Klucze w sklepie! | 556/20000 | 2 |
@@ -17,8 +17,8 @@ Ostatnia aktualizacja 2024-03-26 13:49
 | 11 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Bed Wars: reset + nowości w piątek o 20:00! | 461/465 | 0 |
 | 12 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | WywrotkaMC.PL [1.8 - 1.20+] Dziękujemy wam za ten Sezon, wracamy za niedługo! | 0/1500 | 0 |
 | 13 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL 4 dzien edycji Survival+Dzialki :) Odbierz SuperVIPa za darmo! Wpisz: /nagroda  Survival wystartowal! | 232/2000 | 0 |
-| 14 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 406/407 | 0 |
-| 15 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ꜱᴘʀᴀᴡᴅᴢ ɴᴀᴊɴᴏᴡꜱᴢᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴇ ꜱᴋʏᴘᴠᴘ | 1184/1 | 0 |
+| 14 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 792/793 | 0 |
+| 15 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ꜱᴘʀᴀᴡᴅᴢ ɴᴀᴊɴᴏᴡꜱᴢᴀ ᴀᴋᴛᴜᴀʟɪᴢᴀᴄᴊᴇ ꜱᴋʏᴘᴠᴘ | 1658/1 | 0 |
 | 16 | 	[craftplay.pl](https://mcserwery.pl/serwery/minecraft/25/) | CraftPlay.pl :: Sklep: CraftPlay.pl Start SV + Gildie juz w srode o godz. 18:00! | 813/5000 | 0 |
 | 17 | 	[noobekpvp.pl](https://mcserwery.pl/serwery/minecraft/28/) | NOOBEKPVP.PL » Strona WWW: noobekpvp.pl ᴋɪᴛᴘᴠᴘ ᴡʟᴀꜱɴɪᴇ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ, ᴡʙɪᴊᴀᴊ | 5/100 | 0 |
 | 18 | 	[mcgry.pl](https://mcserwery.pl/serwery/minecraft/44/) | Serwer nie posiada motd | 6/1000 | 0 |
@@ -29,8 +29,8 @@ Ostatnia aktualizacja 2024-03-26 13:49
 | 23 | 	[poolcraft.pl](https://mcserwery.pl/serwery/minecraft/75/) | POOLCRAFT.PL— ꜱᴜʀᴠɪᴠᴀʟ — ʙᴏxᴘᴠᴘ ɴᴏᴡʏ ᴏɴᴇʙʟᴏᴄᴋ ✦ ɴᴀᴘᴀᴅʏ ᴅᴜɴɢᴇᴏɴʏ ʟɪᴄʏᴛᴀᴄᴊᴇ | 43/100 | 0 |
 | 24 | 	[rushpvp.pl](https://mcserwery.pl/serwery/minecraft/108/) | RushPVP.pl  BoxPVP bez głupot Przerwa techniczna, przepraszamy! dc.rushpvp.pl | 0/100 | 0 |
 | 25 | 	[nusi.pl](https://mcserwery.pl/serwery/minecraft/109/) | NUSI.PL [1.16.5 - 1.20.4] Nowa edycja ᴋɪᴛᴘᴠᴘ o 18:00! Dołącz teraz! | 11/500 | 0 |
-| 26 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl x ɴᴀsᴢᴀ sᴛʀᴏɴᴀ: behero.pl  ᴡʙɪᴊᴀᴊ ɴᴀ ɴᴀᴊʟᴇᴘꜱᴢʏ ꜱᴜʀᴠɪᴠᴀʟ ᴡ ᴘʟ | 1/2 | 0 |
-| 27 | 	[wehc.pl](https://mcserwery.pl/serwery/minecraft/124/) | 🔥 WEHC.PL 🔥 [1.16.5 - 1.20.2] Odbierz prezent ( /wielkanoc ) ᴠɪᴘ Na 3 dni! | 7/150 | 0 |
+| 26 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl x ɴᴀsᴢᴀ sᴛʀᴏɴᴀ: behero.pl  ᴡʙɪᴊᴀᴊ ɴᴀ ɴᴀᴊʟᴇᴘꜱᴢʏ ꜱᴜʀᴠɪᴠᴀʟ ᴡ ᴘʟ | 10/11 | 0 |
+| 27 | 	[wehc.pl](https://mcserwery.pl/serwery/minecraft/124/) | 🔥 WEHC.PL 🔥 [1.16.5 - 1.20.2] Odbierz prezent ( /wielkanoc ) ᴠɪᴘ Na 3 dni! | 12/150 | 0 |
 | 28 | 	[neverus.net](https://mcserwery.pl/serwery/minecraft/126/) | · ɴᴇᴠᴇʀᴜs.ɴᴇᴛ » ᴛᴡᴏᴊᴀ sɪᴇᴄ sᴇʀᴡᴇʀᴏᴡ [1.8-1.20+] ★ BOXPVP: ᴡʙɪᴊᴀᴊ ɴᴀ ʙᴇᴛᴀᴛᴇsᴛʏ! ★ | 0/80 | 0 |
 | 29 | 	[TORMC.PL](https://mcserwery.pl/serwery/minecraft/138/) | TORMC.PL [1.8 - 1.20.4] Zapraszamy do gry na naszym serwerze! | 84/1000 | 0 |
 | 30 | 	[zjawek.pl](https://mcserwery.pl/serwery/minecraft/144/) | Serwer nie posiada motd | 8/200 | 0 |
