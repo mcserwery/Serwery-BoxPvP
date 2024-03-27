@@ -1,19 +1,19 @@
 
 # Serwery Minecraft BoxPvP
 Dane pobrane z https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP
-Ostatnia aktualizacja 2024-03-27 01:49
+Ostatnia aktualizacja 2024-03-27 02:49
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.20.4 ᴊᴜᴢ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 403/2000 | 123 |
-| 2 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 2/777 | 8 |
+| 2 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) | FROOSTMC  BOXPVP STAR WARS! [1.8-1.20.2] ChestPVP BoxPVP DuelsPVP | 0/777 | 8 |
 | 3 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  BoxPvP, SkyGen, Duels ███ Wbijaj na najfajniejszy serwer Minecraft! | 14/500 | 4 |
-| 4 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2610/0 | 4 |
+| 4 | 	[hc.mckc.pl](https://mcserwery.pl/serwery/minecraft/264/) |  HC.MCKC.PL × Super serwery minecraft! 1.8-1.20 SURVIVAL ONEBLOCK FREEBUILD CHESTPVP MEGADROP PARKOUR GILDIE SKYWARS BEDWARS CREATIVE FREEBUILD EASYHC TNTRUN 1v | 2268/0 | 4 |
 | 5 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, Duels  1.20.4 A my działamy na wersji 1.20.4 | 61/500 | 3 |
 | 6 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 20/777 | 2 |
 | 7 | 	[tormc.pl](https://mcserwery.pl/serwery/minecraft/35/) | TORMC.PL [1.8 - 1.20.4] Zapraszamy do gry na naszym serwerze! | 50/1000 | 1 |
 | 8 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & BYNIU na zawsze -50zł!  kretmc.pl & Earth SMP >> 7 edycja wystartowala! | 2/500 | 1 |
 | 9 | 	[DreamCube.pl](https://mcserwery.pl/serwery/minecraft/240/) | TRYPVP.PL ↔ Rozwalaj bambików z nami! Start pierwszego trybu już niebawem! | 0/30 | 1 |
-| 10 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Bed Wars: reset + nowości w piątek o 20:00! | 381/385 | 0 |
+| 10 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × PvP: Nowa edycja już w piątek o 18:00! | 274/278 | 0 |
 | 11 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | WywrotkaMC.PL [1.8 - 1.20+] Dziękujemy wam za ten Sezon, wracamy za niedługo! | 0/1500 | 0 |
 | 12 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL 7 dzien edycji Survival+Dzialki :) Odbierz SuperVIPa za darmo! Wpisz: /nagroda  Survival wystartowal! | 235/2000 | 0 |
 | 13 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | 【╦╤─ INKMC.PL > Sklep: InkMC.pl  ─╤╦【 ᴅᴏᴅᴀʟɪśᴍʏ ʟɪᴍɪᴛᴏᴡᴀɴᴀ ʀᴀɴɢᴇ ᴢᴀᴊąᴄᴢᴇᴋ, ᴡᴡᴡ.ɪɴᴋᴍᴄ.ᴘʟ | 202/203 | 0 |
